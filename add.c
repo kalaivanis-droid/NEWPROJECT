@@ -10,6 +10,8 @@ int main() {
     c=sum+a;
     printf("Sum = %d\n", sum);
     printf("C=%d",c);// display output
-
+printf("WECOME");
     return 0;
+    sum=a-b;
+    printf("Difference=%d\n",sum);
 }
